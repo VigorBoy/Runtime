@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attitudes_count</key>
+	<integer>1</integer>
+	<key>comments_count</key>
+	<integer>0</integer>
+	<key>created_at</key>
+	<string>刚刚</string>
+	<key>idstr</key>
+	<string>3824316137609270</string>
+	<key>pic_urls</key>
+	<array>
+		<dict>
+			<key>thumbnail_pic</key>
+			<string>http://ww4.sinaimg.cn/thumbnail/bd297795gw1eqhwikf145g208c0b4kgy.gif</string>
+		</dict>
+	</array>
+	<key>reposts_count</key>
+	<integer>0</integer>
+	<key>source</key>
+	<string>来自即刻笔记</string>
+	<key>text</key>
+	<string>这是我见过的剪刀中。。最丧心病狂的。。。妈蛋，看这体位。。多带劲儿。。。[拜拜]</string>
+	<key>user</key>
+	<dict>
+		<key>mbrank</key>
+		<integer>6</integer>
+		<key>mbtype</key>
+		<integer>12</integer>
+		<key>name</key>
+		<string>嘴巴笑抽筋了</string>
+		<key>profile_image_url</key>
+		<string>http://tp2.sinaimg.cn/2655485361/50/40050952069/1</string>
+		<key>vip</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
