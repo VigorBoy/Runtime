@@ -21,7 +21,6 @@
     Method imageNamedMethod = class_getClassMethod(self, @selector(imageNamed:));
     // 获取xmg_imageNamed
     Method xmg_imageNamedMethod = class_getClassMethod(self, @selector(xmg_imageNamed:));
-    
     // 交互方法:runtime
     method_exchangeImplementations(imageNamedMethod, xmg_imageNamedMethod);
     // 调用imageNamed => xmg_imageNamedMethod

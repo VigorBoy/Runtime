@@ -419,6 +419,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				INFOPLIST_FILE = "Runtime(动态添加方法)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "cn.ShangChen.Ios.Runtime--------";
@@ -430,6 +431,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ENABLE_STRICT_OBJC_MSGSEND = NO;
 				INFOPLIST_FILE = "Runtime(动态添加方法)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "cn.ShangChen.Ios.Runtime--------";
@@ -502,6 +504,7 @@
 				C95421231D45C11E00DBEBC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C95421241D45C11E00DBEBC2 /* Build configuration list for PBXNativeTarget "Runtime(动态添加方法)Tests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +513,7 @@
 				C95421261D45C11E00DBEBC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C95421271D45C11E00DBEBC2 /* Build configuration list for PBXNativeTarget "Runtime(动态添加方法)UITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +522,7 @@
 				C95421291D45C11E00DBEBC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

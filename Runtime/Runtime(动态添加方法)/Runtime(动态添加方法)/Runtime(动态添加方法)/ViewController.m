@@ -8,12 +8,14 @@
 
 #import "ViewController.h"
 #import "Person.h"
-
+#import <objc/message.h>
 @interface ViewController ()
 
 @end
 
 @implementation ViewController
+
+
 
 //开发使用场景：如果一个类方法非常多，加载类到内存的时候也比较耗费资源，需要给每个方法生成映射表，可以使用动态给某个类，添加方法解决。
 - (void)viewDidLoad {
